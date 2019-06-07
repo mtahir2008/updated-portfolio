@@ -46,9 +46,12 @@ $(document).ready(function() {
     );
     var imgrow = $("<div class='row'></div>");
     var githubImgDiv = $(
-      "<div class='col s12'><a href='https://github.com/mtahir2008' target='_blank'><img class='responsive-img ourImage center' src='assets/images/github.png'></a></div>"
+      "<div class='col s6'><a href='https://github.com/mtahir2008' target='_blank'><img class='responsive-img ourImage center' src='assets/images/github.png'></a></div>"
     );
-    imgrow.append(githubImgDiv);
+    var linkedinImgDiv = $(
+      "<div class='col s6'><a href='https://www.linkedin.com/in/muhammad-mohsin-tahir/' target='_blank'><img class='responsive-img ourImage' src='assets/images/linkedin.png'></a></div>"
+    );
+    imgrow.append(githubImgDiv).append(linkedinImgDiv);
     var contactDiv = $("<div class='content'></div>");
     contactDiv.attr("value", 4);
     contactDiv
