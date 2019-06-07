@@ -90,6 +90,42 @@ $(document).ready(function() {
       "<div class='col s12 m6 l4'><div class='card medium'><div class='card-image'><img src='http://lorempixel.com/output/technics-q-c-200-125-6.jpg'><span style='font-size:1.40em;' class='card-title white-text red'>Project 1</span></div><div class='card-content'><p class='card-textcontent'>First group project using many different features, and different APIs to make it all function.</p></div><a style='font-size:1.40em;padding:5px;' class='red-text' href='https://mallika1.github.io/bootccamp-p1/' target='_blank'>View Web Page</a><p style='font-size:1.40em;margin-top: 15px; margin-bottom: 5px;'><a class='black-text' href='https://github.com/Mallika1/bootccamp-p1' target='_blank'>View on GitHub</a></p></div></div>"
     );
 
+    var projcard7 = $(
+      "<div class='col s12 m6 l4'><div class='card medium'><div class='card-image'><img src='http://lorempixel.com/output/technics-q-c-200-125-7.jpg'><span style='font-size:1.40em;' class='card-title white-text red'>Liri Bot</span></div><div class='card-content'><p class='card-textcontent'>LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a Language Interpretation and Recognition Interface.</p></div><a style='font-size:1.40em;padding:10px;' class='red-text' href='https://github.com/mtahir2008/liri-bot.git' target='_blank'>View Web Page</a><p style='font-size:1.40em;margin-top: 15px; margin-bottom: 5px;'><a class='black-text' href='https://github.com/mtahir2008/liri-bot.git' target='_blank'>View on GitHub</a></p></div></div>"
+    );
+
+    var projcard8 = $(
+      "<div class='col s12 m6 l4'><div class='card medium'><div class='card-image'><img src='http://lorempixel.com/output/technics-q-c-200-125-8.jpg'><span style='font-size:1.40em;' class='card-title white-text black'>constructor-word-guess</span></div><div class='card-content'><p class='card-textcontent'>This is a node.js based application with interactive prompts on the command-line. Good luck and enjoy the game!</p></div><a style='font-size:1.40em;padding:5px;' class='red-text' href='https://github.com/mtahir2008/constructor-word-guess.git' target='_blank'>View Web Page</a><p style='font-size:1.40em;margin-top: 15px; margin-bottom: 5px;'><a class='black-text' href='https://github.com/mtahir2008/constructor-word-guess.git' target='_blank'>View on GitHub</a></p></div></div>"
+    );
+
+    var projcard9 = $(
+      "<div class='col s12 m6 l4'><div class='card medium'><div class='card-image'><img src='http://lorempixel.com/output/technics-q-c-200-125-9.jpg'><span style='font-size:1.40em;' class='card-title white-text red'>Bamazon</span></div><div class='card-content'><p class='card-textcontent'>Welcome to Bamazon, think of this as the new Amazon.To get started, clone repo, run npm install to add all of the dependencies.</p></div><a style='font-size:1.40em;padding:5px;' class='red-text' href='https://github.com/mtahir2008/bamazon.git' target='_blank'>View Web Page</a><p style='font-size:1.40em;margin-top: 15px; margin-bottom: 5px;'><a class='black-text' href='https://github.com/mtahir2008/bamazon.git' target='_blank'>View on GitHub</a></p></div></div>"
+    );
+
+    var projcard10 = $(
+      "<div class='col s12 m6 l4'><div class='card medium'><div class='card-image'><img src='http://lorempixel.com/output/technics-q-c-200-125-10.jpg'><span style='font-size:1.40em;' class='card-title white-text red'>FriendFinder</span></div><div class='card-content'><p class='card-textcontent'> This full-stack site will take in results from your users' surveys, then compare their answers with those from other users. The app will then display the name and picture of the user with the best overall match.</p></div><a style='font-size:1.40em;padding:10px;' class='red-text' href='https://rocky-basin-97853.herokuapp.com/' target='_blank'>View Web Page</a><p style='font-size:1.40em;margin-top: 15px; margin-bottom: 5px;'><a class='black-text' href='https://github.com/mtahir2008/FriendFinder' target='_blank'>View on GitHub</a></p></div></div>"
+    );
+
+    var projcard11 = $(
+      "<div class='col s12 m6 l4'><div class='card medium'><div class='card-image'><img src='http://lorempixel.com/output/technics-q-c-200-125-3.jpg'><span style='font-size:1.40em;' class='card-title white-text black'>clicky-game</span></div><div class='card-content'><p class='card-textcontent'>Click game built with React to track clicks and present the user with a score. The game will track each clicked image a user makes. If the same image is clicked twice the game will be reset.</p></div><a style='font-size:1.40em;padding:5px;' class='red-text' href='https://rocky-eyrie-58301.herokuapp.com/' target='_blank'>View Web Page</a><p style='font-size:1.40em;margin-top: 15px; margin-bottom: 5px;'><a class='black-text' href='https://github.com/mtahir2008/clicky-game' target='_blank'>View on GitHub</a></p></div></div>"
+    );
+
+    var projcard12 = $(
+      "<div class='col s12 m6 l4'><div class='card medium'><div class='card-image'><img src='http://lorempixel.com/output/technics-q-c-200-125-1.jpg'><span style='font-size:1.40em;' class='card-title white-text red'>Project 2</span></div><div class='card-content'><p class='card-textcontent'>This application was written for project 2 of the UCD Coding Bootcamp. The landing page provides users with the opportunity to learn about trading as well as register to create a secure sign in.</p></div><a style='font-size:1.40em;padding:5px;' class='red-text' href='https://floating-headland-19856.herokuapp.com/' target='_blank'>View Web Page</a><p style='font-size:1.40em;margin-top: 15px; margin-bottom: 5px;'><a class='black-text' href='https://github.com/Mallika1/Project2' target='_blank'>View on GitHub</a></p></div></div>"
+    );
+
+    var projcard13 = $(
+      "<div class='col s12 m6 l4'><div class='card medium'><div class='card-image'><img src='http://lorempixel.com/output/technics-q-c-200-125-4.jpg'><span style='font-size:1.40em;' class='card-title white-text red'>Burger</span></div><div class='card-content'><p class='card-textcontent'> A burger logger utilizes MySQL, Express, and Handlebars to allow users to create, update, and read burgers from the database.</p></div><a style='font-size:1.40em;padding:10px;' class='red-text' href='https://whispering-inlet-19938.herokuapp.com/' target='_blank'>View Web Page</a><p style='font-size:1.40em;margin-top: 15px; margin-bottom: 5px;'><a class='black-text' href='https://github.com/mtahir2008/burger' target='_blank'>View on GitHub</a></p></div></div>"
+    );
+
+    var projcard14 = $(
+      "<div class='col s12 m6 l4'><div class='card medium'><div class='card-image'><img src='http://lorempixel.com/output/technics-q-c-200-125-5.jpg'><span style='font-size:1.40em;' class='card-title white-text black'>NYT Scraper</span></div><div class='card-content'><p class='card-textcontent'>A web app utilizes below technologies to let users view latest news Buzz!!</p></div><a style='font-size:1.40em;padding:5px;' class='red-text' href=' https://cryptic-crag-87371.herokuapp.com/' target='_blank'>View Web Page</a><p style='font-size:1.40em;margin-top: 15px; margin-bottom: 5px;'><a class='black-text' href='https://github.com/mtahir2008/NYTScraper' target='_blank'>View on GitHub</a></p></div></div>"
+    );
+
+    var projcard15 = $(
+      "<div class='col s12 m6 l4'><div class='card medium'><div class='card-image'><img src='http://lorempixel.com/output/technics-q-c-200-125-6.jpg'><span style='font-size:1.40em;' class='card-title white-text red'>Project 3</span></div><div class='card-content'><p class='card-textcontent'>This application was written for project 3 of the UCD Coding Bootcamp. The front end was built using React, Material-UI, and CSS/CSS Bootstrap. The backend uses Sequelize and Mysql database.</p></div><a style='font-size:1.40em;padding:5px;' class='red-text' href='https://polar-springs-68613.herokuapp.com/' target='_blank'>View Web Page</a><p style='font-size:1.40em;margin-top: 15px; margin-bottom: 5px;'><a class='black-text' href='https://jenniferhjones.github.io/TBM/' target='_blank'>View on GitHub</a></p></div></div>"
+    );
+
     var cardrow = $("<div class='row'></div>");
     cardrow
       .append(projcard1)
@@ -100,10 +136,28 @@ $(document).ready(function() {
       .append(projcard4)
       .append(projcard5)
       .append(projcard6);
+    var cardrow3 = $("<div class='row'></div>");
+    cardrow3
+      .append(projcard7)
+      .append(projcard8)
+      .append(projcard9);
+    var cardrow4 = $("<div class='row'></div>");
+    cardrow4
+      .append(projcard10)
+      .append(projcard11)
+      .append(projcard12);
+    var cardrow5 = $("<div class='row'></div>");
+    cardrow5
+      .append(projcard13)
+      .append(projcard14)
+      .append(projcard15);
     var portfolioDiv = $("<div class='content'></div>");
     portfolioDiv.attr("value", 3);
     portfolioDiv.append(portfolioTitle).append(cardrow);
     portfolioDiv.append(cardrow2);
+    portfolioDiv.append(cardrow3);
+    portfolioDiv.append(cardrow4);
+    portfolioDiv.append(cardrow5);
     return portfolioDiv;
   }
 
